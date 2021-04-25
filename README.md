@@ -24,7 +24,7 @@ Esse projeto foi desenvolvido durante a trilha de NodeJS, na quinta edição da 
 ## Para Clonar o projeto
 
 ```bash
-    $ git clone https://github.com/zV1N1/project-agenda.git
+    $ git clone https://github.com/zV1N1/NLW-5-NODEJS.git
 
     # Go into the repository
     $ cd NLW-5-NODEJS
