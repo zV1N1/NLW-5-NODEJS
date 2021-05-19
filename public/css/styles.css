@@ -14,7 +14,7 @@ body {
   width: 153px;
   height: 56px;
 
-  background: #8257e6;
+  background: #162447;
   border-radius: 68px;
   text-align: center;
   color: #fff;
@@ -45,7 +45,7 @@ body {
   width: 320px;
   height: 56px;
 
-  background: #8257e6;
+  background: #1b1b2f;
   border-radius: 16px 16px 0px 0px;
 
   display: flex;
@@ -209,7 +209,7 @@ input[type="text"]:focus {
   width: 121px;
   height: 40px;
 
-  background: #8257e6;
+  background: #1f4068;
   border-radius: 4px;
   color: #fff;
   border: none;
@@ -251,7 +251,7 @@ input[type="text"]:focus {
 .btn_atd {
   cursor: pointer;
   color: #fff;
-  background: #b32a2a;
+  background: #54123b;
   border: none;
   height: 30px;
   padding: 10px;

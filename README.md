@@ -38,7 +38,7 @@ Esse projeto foi desenvolvido durante a trilha de NodeJS, na quinta edição da 
 
 # 📝 Sobre
 
-<h4 align="center"> As aulas foram ministradas pela **[Daniele Leão](https://github.com/danileao)** instrutora da [Rocketseat](https://rocketseat.com.br/)</h4>
+<h4 align="center"> As aulas foram ministradas pela [Daniele Leão](https://github.com/danileao) instrutora da [Rocketseat](https://rocketseat.com.br/)</h4>
 
 ---
 
